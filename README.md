@@ -1,6 +1,6 @@
 # Data-Scientist-Use-Cases-Use-Case-1
 
-✅ 9. Document Intelligence (Unstructured to Structured)
+✅ 1. Document Intelligence (Unstructured to Structured)
 Business Question:
 "Can we extract structured data from contracts, invoices, and PDFs?"
 
